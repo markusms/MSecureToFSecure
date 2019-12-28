@@ -1,0 +1,11 @@
+I:\Koodaus\CSharp\MsecureToFsecure\MsecureToFsecure\bin\Debug\netcoreapp3.1\MsecureToFsecure.exe
+I:\Koodaus\CSharp\MsecureToFsecure\MsecureToFsecure\bin\Debug\netcoreapp3.1\MsecureToFsecure.deps.json
+I:\Koodaus\CSharp\MsecureToFsecure\MsecureToFsecure\bin\Debug\netcoreapp3.1\MsecureToFsecure.runtimeconfig.json
+I:\Koodaus\CSharp\MsecureToFsecure\MsecureToFsecure\bin\Debug\netcoreapp3.1\MsecureToFsecure.runtimeconfig.dev.json
+I:\Koodaus\CSharp\MsecureToFsecure\MsecureToFsecure\bin\Debug\netcoreapp3.1\MsecureToFsecure.dll
+I:\Koodaus\CSharp\MsecureToFsecure\MsecureToFsecure\bin\Debug\netcoreapp3.1\MsecureToFsecure.pdb
+I:\Koodaus\CSharp\MsecureToFsecure\MsecureToFsecure\obj\Debug\netcoreapp3.1\MsecureToFsecure.csprojAssemblyReference.cache
+I:\Koodaus\CSharp\MsecureToFsecure\MsecureToFsecure\obj\Debug\netcoreapp3.1\MsecureToFsecure.AssemblyInfoInputs.cache
+I:\Koodaus\CSharp\MsecureToFsecure\MsecureToFsecure\obj\Debug\netcoreapp3.1\MsecureToFsecure.AssemblyInfo.cs
+I:\Koodaus\CSharp\MsecureToFsecure\MsecureToFsecure\obj\Debug\netcoreapp3.1\MsecureToFsecure.dll
+I:\Koodaus\CSharp\MsecureToFsecure\MsecureToFsecure\obj\Debug\netcoreapp3.1\MsecureToFsecure.pdb
